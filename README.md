@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-###😎 Who am I?
+### 😎 Who am I?
 - 16 y/o guy from Germany
 - felt in love with coding
 - the creator of Azury
