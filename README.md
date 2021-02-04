@@ -5,6 +5,6 @@
 - felt in love with coding
 - the creator of Azury
 
-### 📫 How to reach me:
+### 📫 How to reach me
 Join my Discord: [azury.gg/discord](https://azury.gg/discord)
 Check out my website: [azurystudios.com](https:///azurystudios.com)
