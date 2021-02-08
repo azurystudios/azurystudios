@@ -6,5 +6,5 @@
 - the creator of Azury
 
 ### 📫 How to reach me
-Join my Discord: [azurystudios.com](https://azurystudios.com)\
-Check out my website: [azury.gg](https:///azury.gg)
+Join my Discord: [azury.gg/discord](https://azury.gg/discord)\
+Check out my website: [azury.gg](https://azury.gg)
