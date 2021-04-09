@@ -7,4 +7,4 @@
 
 ### 📫 How to reach me
 Join my Discord: [azury.gg/discord](https://azury.gg/discord)\
-Check out my website: [azury.gg](https://azury.gg)
+Check out my website: [azury.gg](https://azurystudios.com)
