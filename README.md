@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 ### 😎 Who am I?
-- 16 y/o guy from Germany
+- a German developer
 - felt in love with coding in December 2019
 - the creator of Azury
 
