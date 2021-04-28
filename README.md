@@ -9,7 +9,7 @@
 JavaScript, Node.js, jQuery, CSS, HTML, Express.js, MongoDB (mainly Mongoose.js), Sass
 
 ### Stuff I'm learning in 2021
-Vue.js, Nuxt.js, Docker
+Vue.js, Svelte
 
 ### 📫 How to reach me
 Join my Discord: [azury.gg/discord](https://azury.gg/discord)\
