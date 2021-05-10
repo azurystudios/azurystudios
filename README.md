@@ -1,16 +1,18 @@
-## Hey there 👋
-
-### 😎 Who am I?
-- a German developer
-- felt in love with coding in December 2019
-- the creator of Azury
-
-### Skills
-JavaScript, Node.js, jQuery, CSS, HTML, Express.js, MongoDB (mainly Mongoose.js), Sass
-
-### Stuff I'm learning in 2021
-Vue.js, Svelte
-
-### 📫 How to reach me
-Join my Discord: [azury.gg/discord](https://azury.gg/discord)\
-Check out my website: [azurystudios.com](https://azurystudios.com)
+```JSON
+{
+  "name" : "Samuel Kopp",
+  "age" : "16",
+  "description" : "Just a teenager who fell in love with programming in December 2019.",
+  "skills": ["HTML", "CSS", "JS", "jQuery", "Node.js", "MongoDB (Mongoose)", "Sass", "SCSS", "Express.js"] ,
+  "dependencies" : {
+     "cat" : "*",
+     "hamster" : "*",
+     "coffee" : "black",
+     "ice-cream" : "*"
+   },
+   "devDependencies": {
+     "laptop": "Acer Predator PH317-52",
+     "editor": "Visual Studio Code - Insiders"
+   }
+}
+```
