@@ -2,7 +2,7 @@
 {
   "name" : "Samuel Kopp",
   "age" : "16",
-  "description" : "Just a teenager who fell in love with programming in December 2019.",
+  "description" : "Just a teenager who fell in love with programming.",
   "skills": ["HTML", "CSS", "JS", "jQuery", "Node.js", "MongoDB (Mongoose)", "Sass", "SCSS", "Express.js"] ,
   "dependencies" : {
      "cat" : "*",
