@@ -8,7 +8,7 @@
      "cat" : "*",
      "hamster" : "*",
      "coffee" : "black",
-     "ice-cream" : "*"
+     "ice-cream" : "Ben & Jerry"
    },
    "devDependencies": {
      "laptop": "Acer Predator PH317-52",
