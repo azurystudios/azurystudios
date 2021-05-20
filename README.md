@@ -7,7 +7,7 @@
   "dependencies" : {
      "cat" : "*",
      "hamster" : "*",
-     "coffee" : "black",
+     "drink" : "Coke",
      "ice-cream" : "Ben & Jerry"
    },
    "devDependencies": {
