@@ -11,7 +11,7 @@
      "ice-cream" : "Ben & Jerry"
    },
    "devDependencies": {
-     "laptop": "Acer Predator PH317-52",
+     "device": "Acer Predator PH317-52",
      "editor": "Visual Studio Code - Insiders"
    }
 }
