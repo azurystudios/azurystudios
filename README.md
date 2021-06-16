@@ -3,7 +3,7 @@
   "name" : "Samuel Kopp",
   "age" : "16",
   "description" : "Just a teenager who fell in love with coding.",
-  "skills": ["HTML", "CSS", "JavaScript", "jQuery", "Node.js", "MongoDB (Mongoose)", "Sass", "SCSS", "Express.js", "discord.js"],
+  "skills": ["HTML", "CSS", "JavaScript", "jQuery", "Node.js", "MongoDB (Mongoose)", "SCSS", "Express.js", "discord.js"],
   "dependencies" : {
      "cat" : "*",
      "hamster" : "*",
