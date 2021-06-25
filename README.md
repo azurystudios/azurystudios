@@ -7,7 +7,7 @@
   "dependencies" : {
      "cat" : "*",
      "hamster" : "*",
-     "drink" : "Air Up"
+     "drink" : "Coke"
    },
    "devDependencies": {
      "device": "Acer Predator PH317-52",
